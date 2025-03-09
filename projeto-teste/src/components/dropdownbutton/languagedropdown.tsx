@@ -10,7 +10,7 @@ export default function LanguageDropDown() {
     ];
 
     return (
-        <div className="flex items-center mr-10">
+        <div className="flex items-center mr-10 w-50">
             <Dropdown 
                 value={selectedLanguage} 
                 onChange={(e) => setSelectedLanguage(e.value)} 

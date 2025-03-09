@@ -11,7 +11,7 @@ export default function UserDropDown() {
     ];
 
     return (
-        <button className="flexrounded-full h-5 items-center justify-center mt-1">
+        <button className="flexrounded-full h-5 items-center justify-center mt-1 w-30">
             <Dropdown 
             value={selectedUser}
              onChange={(e) => setSelectedUser(e.value)} 
