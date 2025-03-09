@@ -1,0 +1,145 @@
+{
+    "emails": [
+        {
+            "id": 1,
+            "from": "Hannah",
+            "message": "Here's the report you requested.",
+            "time_received": "07:15",
+            "category": "Primary"
+        },
+        {
+            "id": 2,
+            "from": "George",
+            "message": "Holiday sale starts now!",
+            "time_received": " 04:54",
+            "category": "Friends"
+        },
+        {
+            "id": 3,
+            "from": "Charlie",
+            "message": "Invitation to our annual event.",
+            "time_received": " 14:47",
+            "category": "Primary"
+        },
+        {
+            "id": 4,
+            "from": "Charlie",
+            "message": "Here's the report you requested.",
+            "time_received": " 05:32",
+            "category": "Social"
+        },
+        {
+            "id": 5,
+            "from": "George",
+            "message": "Hope you're doing well!",
+            "time_received": " 19:36",
+            "category": "Social"
+        },
+        {
+            "id": 6,
+            "from": "David",
+            "message": "Holiday sale starts now!",
+            "time_received": " 10:42",
+            "category": "Social"
+        },
+        {
+            "id": 7,
+            "from": "George",
+            "message": "Your order has been shipped.",
+            "time_received": " 08:26",
+            "category": "Work"
+        },
+        {
+            "id": 8,
+            "from": "David",
+            "message": "Your order has been shipped.",
+            "time_received": " 01:16",
+            "category": "Work"
+        },
+        {
+            "id": 9,
+            "from": "David",
+            "message": "Let's catch up soon!",
+            "time_received": " 02:17",
+            "category": "Primary"
+        },
+        {
+            "id": 10,
+            "from": "Bob",
+            "message": "Your order has been shipped.",
+            "time_received": " 01:32",
+            "category": "Work"
+        },
+        {
+            "id": 11,
+            "from": "George",
+            "message": "Holiday sale starts now!",
+            "time_received": " 15:45",
+            "category": "Primary"
+        },
+        {
+            "id": 12,
+            "from": "Hannah",
+            "message": "Here's the report you requested.",
+            "time_received": " 13:00",
+            "category": "Primary"
+        },
+        {
+            "id": 13,
+            "from": "Bob",
+            "message": "Here's the report you requested.",
+            "time_received": " 01:53",
+            "category": "Primary"
+        
+        },
+        {
+            "id": 14,
+            "from": "Fiona",
+            "message": "Your order has been shipped.",
+            "time_received": " 21:25",
+            "category": "Social"
+        },
+        {
+            "id": 15,
+            "from": "Bob",
+            "message": "Reminder: Meeting at 3 PM.",
+            "time_received": " 16:21",
+            "category": "Friends"
+        },
+        {
+            "id": 16,
+            "from": "Fiona",
+            "message": "Reminder: Meeting at 3 PM.",
+            "time_received": " 03:09",
+            "category": "Work"
+        },
+        {
+            "id": 17,
+            "from": "Fiona",
+            "message": "Here's the report you requested.",
+            "time_received": " 11:31",
+            "category": "Social"
+        },
+        {
+            "id": 18,
+            "from": "Charlie",
+            "message": "Your order has been shipped.",
+            "time_received": " 11:37",
+            "category": "Friends"
+        },
+        {
+            "id": 19,
+            "from": "George",
+            "message": "Holiday sale starts now!",
+            "time_received": " 19:06",
+            "category": "Work"
+        },
+        {
+            "id": 20,
+            "from": "Charlie",
+            "message": "Hope you're doing well!",
+            "time_received": " 08:15",
+            "category": "Friends"
+        }
+    ]
+}
